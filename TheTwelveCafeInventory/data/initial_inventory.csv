@@ -1,0 +1,138 @@
+code,name,inventory_type,quantity,unit,min_stock,target_stock,source_sheet,source_row
+TC-0001,ALL PURPOSE CREAM,General Inventory,,,,,INVENTORY (2),4
+TC-0002,OYSTER SAUCCE,General Inventory,,,,,INVENTORY (2),4
+TC-0003,ALL PURPOSE FLOUR,General Inventory,,,,,INVENTORY (2),5
+TC-0004,PAPRIKA,General Inventory,,,,,INVENTORY (2),5
+TC-0005,APPLE,General Inventory,,,,,INVENTORY (2),6
+TC-0006,PARMESAN CHEESE,General Inventory,,,,,INVENTORY (2),6
+TC-0007,BACON,General Inventory,,,,,INVENTORY (2),7
+TC-0008,PARSLEY,General Inventory,,,,,INVENTORY (2),7
+TC-0009,BALSAMIC CREAM,General Inventory,,,,,INVENTORY (2),8
+TC-0010,PATIS,General Inventory,,,,,INVENTORY (2),8
+TC-0011,BBQ POWDER,General Inventory,,,,,INVENTORY (2),9
+TC-0012,PEANUT BUTTER,General Inventory,,,,,INVENTORY (2),9
+TC-0013,BEEF CUBES,General Inventory,,,,,INVENTORY (2),10
+TC-0014,PENNE PASTA,General Inventory,,,,,INVENTORY (2),10
+TC-0015,BEEF FOR STIRFRY,General Inventory,,,,,INVENTORY (2),11
+TC-0016,PESTO,General Inventory,,,,,INVENTORY (2),11
+TC-0017,BLACK PEPPER,General Inventory,,,,,INVENTORY (2),12
+TC-0018,PICKLE RELISH,General Inventory,,,,,INVENTORY (2),12
+TC-0019,BREAD CRUMBS,General Inventory,,,,,INVENTORY (2),13
+TC-0020,PORK CUBES,General Inventory,,,,,INVENTORY (2),13
+TC-0021,BROWN SUGAR,General Inventory,,,,,INVENTORY (2),14
+TC-0022,PORK STEAK,General Inventory,,,,,INVENTORY (2),14
+TC-0023,BURGER BUNS,General Inventory,,,,,INVENTORY (2),15
+TC-0024,POTATO,General Inventory,,,,,INVENTORY (2),15
+TC-0025,BUTTER,General Inventory,,,,,INVENTORY (2),16
+TC-0026,RED BELL PEPPER,General Inventory,,,,,INVENTORY (2),16
+TC-0027,CABBAGE,General Inventory,,,,,INVENTORY (2),17
+TC-0028,RED WINE,General Inventory,,,,,INVENTORY (2),17
+TC-0029,CALAMANSI,General Inventory,,,,,INVENTORY (2),18
+TC-0030,RIB EYE STEAK,General Inventory,,,,,INVENTORY (2),18
+TC-0031,CARROTS,General Inventory,,,,,INVENTORY (2),19
+TC-0032,LETTUCE,General Inventory,,,,,INVENTORY (2),19
+TC-0033,CHEESE POWDER,General Inventory,,,,,INVENTORY (2),20
+TC-0034,SALMON FILLET,General Inventory,,,,,INVENTORY (2),20
+TC-0035,CHICKEN BREAST,General Inventory,,,,,INVENTORY (2),21
+TC-0036,SALT,General Inventory,,,,,INVENTORY (2),21
+TC-0037,CHICKEN CUBES,General Inventory,,,,,INVENTORY (2),22
+TC-0038,SAUSAGE,General Inventory,,,,,INVENTORY (2),22
+TC-0039,CHICKEN POWDER,General Inventory,,,,,INVENTORY (2),23
+TC-0040,SESAME DRESSINGS,General Inventory,,,,,INVENTORY (2),23
+TC-0041,CHICKEN THIGH,General Inventory,,,,,INVENTORY (2),24
+TC-0042,SESAME OIL,General Inventory,,,,,INVENTORY (2),24
+TC-0043,COOKING CREAM,General Inventory,,,,,INVENTORY (2),25
+TC-0044,SESAME SEED,General Inventory,,,,,INVENTORY (2),25
+TC-0045,CORNSTARCH,General Inventory,,,,,INVENTORY (2),26
+TC-0046,SHRIMP,General Inventory,,,,,INVENTORY (2),26
+TC-0047,CREAM DORY,General Inventory,,,,,INVENTORY (2),27
+TC-0048,SINGKAMAS,General Inventory,,,,,INVENTORY (2),27
+TC-0049,CUCUMBER,General Inventory,,,,,INVENTORY (2),28
+TC-0050,SOUR CREAM POWDER,General Inventory,,,,,INVENTORY (2),28
+TC-0051,DELMONTE KETCHUP,General Inventory,,,,,INVENTORY (2),29
+TC-0052,SPAGHETTI PASTA,General Inventory,,,,,INVENTORY (2),29
+TC-0053,DRIED PARSLEY,General Inventory,,,,,INVENTORY (2),30
+TC-0054,SPAGHETTI SAUCE,General Inventory,,,,,INVENTORY (2),30
+TC-0055,EDEN CHEESE,General Inventory,,,,,INVENTORY (2),31
+TC-0056,SPAM,General Inventory,,,,,INVENTORY (2),31
+TC-0057,EGGS,General Inventory,,,,,INVENTORY (2),32
+TC-0058,STRAWBERRY,General Inventory,,,,,INVENTORY (2),32
+TC-0059,EVAP,General Inventory,,,,,INVENTORY (2),33
+TC-0060,SUKA,General Inventory,,,,,INVENTORY (2),33
+TC-0061,FRENCH BEANS,General Inventory,,,,,INVENTORY (2),34
+TC-0062,SWEET CHILI,General Inventory,,,,,INVENTORY (2),34
+TC-0063,FRIES,General Inventory,,,,,INVENTORY (2),35
+TC-0064,TOCINO,General Inventory,,,,,INVENTORY (2),35
+TC-0065,GARLIC,General Inventory,,,,,INVENTORY (2),36
+TC-0066,TOMATO,General Inventory,,,,,INVENTORY (2),36
+TC-0067,GREEN ICE LETTUCE,General Inventory,,,,,INVENTORY (2),37
+TC-0068,TOYO,General Inventory,,,,,INVENTORY (2),37
+TC-0069,GROUND BEEF,General Inventory,,,,,INVENTORY (2),38
+TC-0070,UFC KETCHUP,General Inventory,,,,,INVENTORY (2),38
+TC-0071,GROUND PORK,General Inventory,,,,,INVENTORY (2),39
+TC-0072,WHEAT BREAD,General Inventory,,,,,INVENTORY (2),39
+TC-0073,GROUND PORK,General Inventory,,,,,INVENTORY (2),40
+TC-0074,WHITE ONION,General Inventory,,,,,INVENTORY (2),40
+TC-0075,HOTSAUCE,General Inventory,,,,,INVENTORY (2),41
+TC-0076,WHITE PEPPER,General Inventory,,,,,INVENTORY (2),41
+TC-0077,ICEBERG LETTUCE,General Inventory,,,,,INVENTORY (2),42
+TC-0078,WHITE WINE,General Inventory,,,,,INVENTORY (2),42
+TC-0079,KASIM,General Inventory,,,,,INVENTORY (2),43
+TC-0080,WORCESTERSHIRE SAUCE,General Inventory,,,,,INVENTORY (2),43
+TC-0081,KATSU SAUCE,General Inventory,,,,,INVENTORY (2),44
+TC-0082,YELLOW MUSTARD,General Inventory,,,,,INVENTORY (2),44
+TC-0083,KNORR SEASONING,General Inventory,,,,,INVENTORY (2),45
+TC-0084,LEMON,General Inventory,,,,,INVENTORY (2),46
+TC-0085,LINGUINE PASTA,General Inventory,,,,,INVENTORY (2),47
+TC-0086,MAYONAISE,General Inventory,,,,,INVENTORY (2),48
+TC-0087,MUSHROOM SLICED,General Inventory,,,,,INVENTORY (2),49
+TC-0088,OIL,General Inventory,,,,,INVENTORY (2),50
+TC-0089,OREGANO POWDER,General Inventory,,,,,INVENTORY (2),51
+TC-0090,TAPA,Production Inventory,,,,,Sheet1,7
+TC-0091,KAREKARE MEAT,Production Inventory,,,,,Sheet1,7
+TC-0092,SPAM,Production Inventory,,,,,Sheet1,8
+TC-0093,ALA KING CHIX,Production Inventory,,,,,Sheet1,8
+TC-0094,TOCINO,Production Inventory,,,,,Sheet1,9
+TC-0095,SISIG,Production Inventory,,,,,Sheet1,9
+TC-0096,EGG,Production Inventory,,,,,Sheet1,10
+TC-0097,SALMON SMALL,Production Inventory,,,,,Sheet1,10
+TC-0098,BURGER PATTY,Production Inventory,,,,,Sheet1,11
+TC-0099,SALMON BIG,Production Inventory,,,,,Sheet1,11
+TC-0100,SIDE FRIES,Production Inventory,,,,,Sheet1,12
+TC-0101,RIBEYE STEAK,Production Inventory,,,,,Sheet1,12
+TC-0102,FRIES 100G,Production Inventory,,,,,Sheet1,13
+TC-0103,STEAK SAUCE,Production Inventory,,,,,Sheet1,13
+TC-0104,CARBONARA NOODLES,Production Inventory,,,,,Sheet1,14
+TC-0105,MASHED POTATO,Production Inventory,,,,,Sheet1,14
+TC-0106,CARBONARA SAUCE,Production Inventory,,,,,Sheet1,15
+TC-0107,CHEESE SAUCE,Production Inventory,,,,,Sheet1,15
+TC-0108,PESTO NOODLES,Production Inventory,,,,,Sheet1,16
+TC-0109,SOY GARLIC,Production Inventory,,,,,Sheet1,16
+TC-0110,PESTO SAUCE,Production Inventory,,,,,Sheet1,17
+TC-0111,BUFFALO,Production Inventory,,,,,Sheet1,17
+TC-0112,MEAT BALL PASTA,Production Inventory,,,,,Sheet1,18
+TC-0113,CHURROS,Production Inventory,,,,,Sheet1,18
+TC-0114,MEAT BALL SAUCE,Production Inventory,,,,,Sheet1,19
+TC-0115,BURGER SAUCE,Production Inventory,,,,,Sheet1,19
+TC-0116,CEASAR SALAD SAUCE,Production Inventory,,,,,Sheet1,20
+TC-0117,KARE KARE SAUCE,Production Inventory,,,,,Sheet1,20
+TC-0118,CHEF'S SALAD SAUCE,Production Inventory,,,,,Sheet1,21
+TC-0119,ALAMANG,Production Inventory,,,,,Sheet1,21
+TC-0120,CROUTONS,Production Inventory,,,,,Sheet1,22
+TC-0121,ALAKING SAUCE,Production Inventory,,,,,Sheet1,22
+TC-0122,SHRIMP BACON WRAP,Production Inventory,,,,,Sheet1,23
+TC-0123,SISIG SAUCE,Production Inventory,,,,,Sheet1,23
+TC-0124,CHICKEN FOR SALAD,Production Inventory,,,,,Sheet1,24
+TC-0125,SMOKY BBQ,Production Inventory,,,,,Sheet1,24
+TC-0126,CHICKEN KATSU,Production Inventory,,,,,Sheet1,25
+TC-0127,BALSAMIC,Production Inventory,,,,,Sheet1,25
+TC-0128,CHICKEN KATSU SAUCE,Production Inventory,,,,,Sheet1,26
+TC-0129,GARLIC MAYO DIP,Production Inventory,,,,,Sheet1,26
+TC-0130,BEEF STIR FRY,Production Inventory,,,,,Sheet1,27
+TC-0131,PEPPER CORN SAUCE,Production Inventory,,,,,Sheet1,27
+TC-0132,SWEET&SOUR PORK,Production Inventory,,,,,Sheet1,28
+TC-0133,BECHAMEL SAUCE,Production Inventory,,,,,Sheet1,28
+TC-0134,FISH FILLET,Production Inventory,,,,,Sheet1,29
+TC-0135,COLESLAW,Production Inventory,,,,,Sheet1,29
+TC-0136,BUTTURED SHRIMP,Production Inventory,,,,,Sheet1,30
+TC-0137,BINAGOONGAN,Production Inventory,,,,,Sheet1,31

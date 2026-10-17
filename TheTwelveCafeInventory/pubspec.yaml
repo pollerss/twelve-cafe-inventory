@@ -1,0 +1,21 @@
+name: the_twelve_cafe_inventory
+description: Responsive web/PWA inventory management system for The Twelve Cafe.
+publish_to: none
+version: 0.8.0+8
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.9.1
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  csv: ^6.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/the_twelve_cafe_logo.png
